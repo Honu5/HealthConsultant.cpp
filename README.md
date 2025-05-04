@@ -1,1 +1,2 @@
-# HealthConsultant.cpp
+
+HealthConsultant.cpp is a basic C++ console application that calculates  Body Mass Index (BMI) odf user and provides  health advice based the provided information. It takes  name, age, height, and weight, computes the BMI, and gives recommendations accordingly. The project demonstrates fundamental C++ concepts like functions, conditionals, and user input, making it a great starting point for beginners. Future enhancements may include file saving, user loops, and extended health metrics.
